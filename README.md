@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# About me😄
+
+## I am currently just a graduate student majoring in Artificial Intelligence at Hebei University of Technology, but the story continues, and the future holds promise🔭🔭🔭
 <!--
 **Huashuo777/Huashuo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
